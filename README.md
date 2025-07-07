@@ -158,6 +158,40 @@ See [`codes/monte_carlo_local_vol.py`](codes/monte_carlo_local_vol.py) for a Pyt
 
 ---
 
+## Visualizations
+
+### Implied Volatility Surface
+
+![Implied Volatility Surface](assets/implied_vol_surface.gif)
+*Implied volatility as a function of strike and maturity (synthetic data)*
+
+### Local Volatility Surface
+
+![Local Volatility Surface](assets/local_vol_surface.gif)
+*Local volatility as a function of strike and maturity (synthetic data)*
+
+### Slice Plots: Implied vs. Local Volatility
+
+![Slice Comparison](assets/slice_comparison.gif)
+*Comparison of implied and local volatility slices across maturities*
+
+### Error Heatmap
+
+![Error Heatmap](assets/error_heatmap.gif)
+*Pricing error as a function of strike and maturity (model validation)*
+
+### Forward Smile Evolution
+
+![Forward Smile Evolution](assets/forward_smile_evolution.gif)
+*Evolution of the forward volatility smile over time*
+
+### Local Volatility Model Path Simulation
+
+![Local Volatility Model Path Simulation](assets/local_vol_pde_path_sim.gif)
+*Simulated asset price paths under a local volatility model*
+
+---
+
 ## References
 - Gatheral, J. (2006). *The Volatility Surface*.
 - Dupire, B. (1994). Pricing with a Smile. *Risk*, 7(1), 18-20.
