@@ -1,0 +1,81 @@
+total 24
+-rw-r--r--@  1 mohammed-karimkhaldi  staff     0B Jul  7 19:39 CODEBASE_INDEX.txt
+-rw-r--r--@  1 mohammed-karimkhaldi  staff   8.7K Jul  7 19:27 README.md
+drwxr-xr-x@ 10 mohammed-karimkhaldi  staff   320B Jul  7 19:33 assets
+drwxr-xr-x@ 14 mohammed-karimkhaldi  staff   448B Jul  7 19:38 codes
+drwxr-xr-x@  2 mohammed-karimkhaldi  staff    64B Jul  7 19:06 docs
+
+./assets:
+total 70544
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff    29K Jul  7 19:33 error_heatmap.gif
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff    29K Jul  7 19:33 error_heatmap.png
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   196K Jul  7 19:33 forward_smile_evolution.gif
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff    13M Jul  7 19:32 implied_vol_surface.gif
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   8.8M Jul  7 19:33 local_vol_pde_path_sim.gif
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff    12M Jul  7 19:33 local_vol_surface.gif
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   111K Jul  7 19:33 slice_comparison.gif
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   1.1K Jul  7 19:07 style.css
+
+./codes:
+total 0
+drwxr-xr-x@ 3 mohammed-karimkhaldi  staff    96B Jul  7 19:38 calibration
+drwxr-xr-x@ 3 mohammed-karimkhaldi  staff    96B Jul  7 19:37 common
+drwxr-xr-x@ 4 mohammed-karimkhaldi  staff   128B Jul  7 19:38 diagnostics
+drwxr-xr-x@ 3 mohammed-karimkhaldi  staff    96B Jul  7 19:38 numerical
+drwxr-xr-x@ 2 mohammed-karimkhaldi  staff    64B Jul  7 19:38 plot_error_heatmap
+drwxr-xr-x@ 2 mohammed-karimkhaldi  staff    64B Jul  7 19:38 plot_forward_smile_evolution
+drwxr-xr-x@ 3 mohammed-karimkhaldi  staff    96B Jul  7 19:39 plot_implied_vol_surface
+drwxr-xr-x@ 2 mohammed-karimkhaldi  staff    64B Jul  7 19:38 plot_local_vol_pde_path_sim
+drwxr-xr-x@ 2 mohammed-karimkhaldi  staff    64B Jul  7 19:38 plot_local_vol_surface
+drwxr-xr-x@ 2 mohammed-karimkhaldi  staff    64B Jul  7 19:38 plot_slice_comparison
+drwxr-xr-x@ 3 mohammed-karimkhaldi  staff    96B Jul  7 19:38 simulation
+drwxr-xr-x@ 5 mohammed-karimkhaldi  staff   160B Jul  7 19:38 surfaces
+
+./codes/calibration:
+total 8
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   1.6K Jul  7 19:07 calibrate_local_vol.py
+
+./codes/common:
+total 8
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   821B Jul  7 19:37 plot_utils.py
+
+./codes/diagnostics:
+total 16
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   819B Jul  7 19:32 error_heatmap.py
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   1.0K Jul  7 19:32 forward_smile_evolution.py
+
+./codes/numerical:
+total 8
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   1.2K Jul  7 19:07 dupire_finite_difference.py
+
+./codes/plot_error_heatmap:
+total 0
+
+./codes/plot_forward_smile_evolution:
+total 0
+
+./codes/plot_implied_vol_surface:
+total 8
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   915B Jul  7 19:39 plot_implied_vol_surface.py
+
+./codes/plot_local_vol_pde_path_sim:
+total 0
+
+./codes/plot_local_vol_surface:
+total 0
+
+./codes/plot_slice_comparison:
+total 0
+
+./codes/simulation:
+total 8
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   1.2K Jul  7 19:32 local_vol_pde_path_sim.py
+
+./codes/surfaces:
+total 24
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   915B Jul  7 19:37 implied_vol_surface.py
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   1.1K Jul  7 19:32 local_vol_surface.py
+-rw-r--r--@ 1 mohammed-karimkhaldi  staff   1.3K Jul  7 19:34 slice_comparison_surface.py
+
+./docs:
+total 0
